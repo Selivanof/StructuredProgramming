@@ -23,5 +23,8 @@ As part of the Structured Programming course, I created a local multiplayer game
 * Game: The direction and the intensity of the wind changes on each round. Variable and strong wind means increased difficulty. Each player determines the direction and range of his/her movement. The program calculates with specific rules and with a some randomness (which can be changed depending on the desired difficulty) the cruising and the next point that each boat reaches. Optionally, each player's boats can collide with each other.
 * Winner: Whoever reaches the finish line first, completing a full cruising around the island.
 
-## Report
+## Project Report
 The full report/manual of the project can be found in [this pdf file]() (note that the file is in Greek).
+
+## Project Grade
+The project received the maximum grade of 1.0/1.0. It also received a +1.5 bonus for being one of the top 3 projects of the class.
