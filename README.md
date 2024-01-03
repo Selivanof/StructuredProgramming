@@ -28,3 +28,6 @@ The full report/manual of the project can be found in [this pdf file]() (note th
 
 ## Project Grade
 The project received the maximum grade of 1.0/1.0. It also received a +1.5 bonus for being one of the top 3 projects of the class.
+
+---
+For all of my university-related projects you can visit [this repository](https://github.com/Selivanof/UniversityCollection)
